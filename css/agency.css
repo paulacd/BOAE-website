@@ -31,7 +31,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #66a1ff;
 }
 a:hover,
 a:focus,
@@ -560,7 +560,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #00256f;
-  background-image: url('../img/bts-faded2.jpg');
+  background-image: url('../img/bts-faded.jpg');
   background-position: center;
   background-repeat: no-repeat;
 }
