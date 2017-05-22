@@ -157,6 +157,7 @@ fieldset[disabled] .btn-xl.active {
   /*color: #00256f;*/
   color: #66a1ff;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  /*font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
